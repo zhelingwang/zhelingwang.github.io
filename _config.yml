@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: zhelingwang
+title: 和
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: zheling
+language: zh-Hans
+timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -91,9 +91,14 @@ exclude:
 ignore:
 
 # Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: landscape
+## https://github.com/Shen-Yu/hexo-theme-ayer
+theme: ayer
+
+# Hexo-generator-search
+search:
+  path: search.xml
+  field: post
+  format: html
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
