@@ -1,7 +1,7 @@
 {
     "background_color": "purple",
     "description": "to do list",
-    "display": "fullscreen",
+    "display": "standalone",
     "icons": [
         {
             "src": "imgs/512x512.png",
