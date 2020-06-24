@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "io.github.zhelingwang.alltoowell",
+    "package_name": "io.github.zhelingwang",
     "sha256_cert_fingerprints":
     ["DF:14:36:61:1E:E2:1F:B6:C2:19:46:0D:84:E5:82:6A:A1:A4:55:1F:FA:AB:BE:B5:1C:31:36:FC:36:D8:02:D2"]
   }
