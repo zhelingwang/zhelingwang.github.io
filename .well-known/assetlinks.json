@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "io.github.zhelingwang",
+    "package_name": "io.github.zhelingwang.latest",
     "sha256_cert_fingerprints":
-    ["DF:14:36:61:1E:E2:1F:B6:C2:19:46:0D:84:E5:82:6A:A1:A4:55:1F:FA:AB:BE:B5:1C:31:36:FC:36:D8:02:D2"]
+    ["71:AF:DF:C2:7F:44:9B:32:51:33:55:47:84:07:7B:A3:28:42:41:D3:1E:D5:BB:1F:3D:AF:4D:F2:C2:89:2D:96"]
   }
 }]
